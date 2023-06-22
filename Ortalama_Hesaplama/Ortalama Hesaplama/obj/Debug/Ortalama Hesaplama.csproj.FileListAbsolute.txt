@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C#_Konsol\Ortalama Hesaplama\Ortalama Hesaplama\bin\Debug\Ortalama Hesaplama.exe.config
+C:\Users\Administrator\Desktop\C#_Konsol\Ortalama Hesaplama\Ortalama Hesaplama\bin\Debug\Ortalama Hesaplama.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Ortalama Hesaplama\Ortalama Hesaplama\bin\Debug\Ortalama Hesaplama.pdb
+C:\Users\Administrator\Desktop\C#_Konsol\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.pdb
