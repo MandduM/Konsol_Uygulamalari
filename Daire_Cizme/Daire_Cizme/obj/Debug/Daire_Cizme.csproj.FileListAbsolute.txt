@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C#_Konsol\Daire_Cizme\Daire_Cizme\bin\Debug\Daire_Cizme.exe.config
+C:\Users\Administrator\Desktop\C#_Konsol\Daire_Cizme\Daire_Cizme\bin\Debug\Daire_Cizme.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Daire_Cizme\Daire_Cizme\bin\Debug\Daire_Cizme.pdb
+C:\Users\Administrator\Desktop\C#_Konsol\Daire_Cizme\Daire_Cizme\obj\Debug\Daire_Cizme.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Daire_Cizme\Daire_Cizme\obj\Debug\Daire_Cizme.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Daire_Cizme\Daire_Cizme\obj\Debug\Daire_Cizme.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Daire_Cizme\Daire_Cizme\obj\Debug\Daire_Cizme.pdb
