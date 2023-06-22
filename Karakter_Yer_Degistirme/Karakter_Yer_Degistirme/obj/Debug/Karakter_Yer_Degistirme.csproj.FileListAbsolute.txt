@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C#_Konsol\Karakter_Yer_Degistirme\Karakter_Yer_Degistirme\bin\Debug\Karakter_Yer_Degistirme.exe.config
+C:\Users\Administrator\Desktop\C#_Konsol\Karakter_Yer_Degistirme\Karakter_Yer_Degistirme\bin\Debug\Karakter_Yer_Degistirme.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Karakter_Yer_Degistirme\Karakter_Yer_Degistirme\bin\Debug\Karakter_Yer_Degistirme.pdb
+C:\Users\Administrator\Desktop\C#_Konsol\Karakter_Yer_Degistirme\Karakter_Yer_Degistirme\obj\Debug\Karakter_Yer_Degistirme.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Karakter_Yer_Degistirme\Karakter_Yer_Degistirme\obj\Debug\Karakter_Yer_Degistirme.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Karakter_Yer_Degistirme\Karakter_Yer_Degistirme\obj\Debug\Karakter_Yer_Degistirme.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Karakter_Yer_Degistirme\Karakter_Yer_Degistirme\obj\Debug\Karakter_Yer_Degistirme.pdb
