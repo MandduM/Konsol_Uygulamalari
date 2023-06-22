@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C#_Konsol\Voting\Voting\bin\Debug\Voting.exe.config
+C:\Users\Administrator\Desktop\C#_Konsol\Voting\Voting\bin\Debug\Voting.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Voting\Voting\bin\Debug\Voting.pdb
+C:\Users\Administrator\Desktop\C#_Konsol\Voting\Voting\obj\Debug\Voting.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Voting\Voting\obj\Debug\Voting.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Voting\Voting\obj\Debug\Voting.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Voting\Voting\obj\Debug\Voting.pdb
