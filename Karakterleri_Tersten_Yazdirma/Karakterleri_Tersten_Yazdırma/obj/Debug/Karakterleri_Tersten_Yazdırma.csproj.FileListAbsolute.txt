@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C#_Konsol\Karakterleri_Tersten_Yazdırma\Karakterleri_Tersten_Yazdırma\bin\Debug\Karakterleri_Tersten_Yazdırma.exe.config
+C:\Users\Administrator\Desktop\C#_Konsol\Karakterleri_Tersten_Yazdırma\Karakterleri_Tersten_Yazdırma\bin\Debug\Karakterleri_Tersten_Yazdırma.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Karakterleri_Tersten_Yazdırma\Karakterleri_Tersten_Yazdırma\bin\Debug\Karakterleri_Tersten_Yazdırma.pdb
+C:\Users\Administrator\Desktop\C#_Konsol\Karakterleri_Tersten_Yazdırma\Karakterleri_Tersten_Yazdırma\obj\Debug\Karakterleri_Tersten_Yazdırma.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Karakterleri_Tersten_Yazdırma\Karakterleri_Tersten_Yazdırma\obj\Debug\Karakterleri_Tersten_Yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Karakterleri_Tersten_Yazdırma\Karakterleri_Tersten_Yazdırma\obj\Debug\Karakterleri_Tersten_Yazdırma.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Karakterleri_Tersten_Yazdırma\Karakterleri_Tersten_Yazdırma\obj\Debug\Karakterleri_Tersten_Yazdırma.pdb
