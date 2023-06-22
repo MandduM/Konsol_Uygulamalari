@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C#_Konsol\Algoritma\Algoritma\bin\Debug\Algoritma.exe.config
+C:\Users\Administrator\Desktop\C#_Konsol\Algoritma\Algoritma\bin\Debug\Algoritma.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Algoritma\Algoritma\bin\Debug\Algoritma.pdb
+C:\Users\Administrator\Desktop\C#_Konsol\Algoritma\Algoritma\obj\Debug\Algoritma.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Algoritma\Algoritma\obj\Debug\Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Algoritma\Algoritma\obj\Debug\Algoritma.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Algoritma\Algoritma\obj\Debug\Algoritma.pdb
