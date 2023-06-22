@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C#_Konsol\Sesli_Sessiz_Harf_Bul\Sesli_Sessiz_Harf_Bul\bin\Debug\Sesli_Sessiz_Harf_Bul.exe.config
+C:\Users\Administrator\Desktop\C#_Konsol\Sesli_Sessiz_Harf_Bul\Sesli_Sessiz_Harf_Bul\bin\Debug\Sesli_Sessiz_Harf_Bul.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Sesli_Sessiz_Harf_Bul\Sesli_Sessiz_Harf_Bul\bin\Debug\Sesli_Sessiz_Harf_Bul.pdb
+C:\Users\Administrator\Desktop\C#_Konsol\Sesli_Sessiz_Harf_Bul\Sesli_Sessiz_Harf_Bul\obj\Debug\Sesli_Sessiz_Harf_Bul.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Sesli_Sessiz_Harf_Bul\Sesli_Sessiz_Harf_Bul\obj\Debug\Sesli_Sessiz_Harf_Bul.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Sesli_Sessiz_Harf_Bul\Sesli_Sessiz_Harf_Bul\obj\Debug\Sesli_Sessiz_Harf_Bul.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Sesli_Sessiz_Harf_Bul\Sesli_Sessiz_Harf_Bul\obj\Debug\Sesli_Sessiz_Harf_Bul.pdb

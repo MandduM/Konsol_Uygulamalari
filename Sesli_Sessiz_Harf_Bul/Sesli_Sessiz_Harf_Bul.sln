@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sesli_Sessiz_Harf_Bul", "Sesli_Sessiz_Harf_Bul\Sesli_Sessiz_Harf_Bul.csproj", "{2E9CB7F7-2820-4693-A7EA-5854058C5E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E9CB7F7-2820-4693-A7EA-5854058C5E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9CB7F7-2820-4693-A7EA-5854058C5E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9CB7F7-2820-4693-A7EA-5854058C5E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9CB7F7-2820-4693-A7EA-5854058C5E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {044C5615-0A8A-43D4-80F2-F5A0CC0C3774}
+	EndGlobalSection
+EndGlobal
