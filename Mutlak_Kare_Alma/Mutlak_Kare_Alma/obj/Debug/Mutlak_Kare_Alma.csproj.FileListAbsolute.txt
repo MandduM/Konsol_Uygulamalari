@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C#_Konsol\Mutlak_Kare_Alma\Mutlak_Kare_Alma\bin\Debug\Mutlak_Kare_Alma.exe.config
+C:\Users\Administrator\Desktop\C#_Konsol\Mutlak_Kare_Alma\Mutlak_Kare_Alma\bin\Debug\Mutlak_Kare_Alma.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Mutlak_Kare_Alma\Mutlak_Kare_Alma\bin\Debug\Mutlak_Kare_Alma.pdb
+C:\Users\Administrator\Desktop\C#_Konsol\Mutlak_Kare_Alma\Mutlak_Kare_Alma\obj\Debug\Mutlak_Kare_Alma.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Mutlak_Kare_Alma\Mutlak_Kare_Alma\obj\Debug\Mutlak_Kare_Alma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Mutlak_Kare_Alma\Mutlak_Kare_Alma\obj\Debug\Mutlak_Kare_Alma.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Mutlak_Kare_Alma\Mutlak_Kare_Alma\obj\Debug\Mutlak_Kare_Alma.pdb
