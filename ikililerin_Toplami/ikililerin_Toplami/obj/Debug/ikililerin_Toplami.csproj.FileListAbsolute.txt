@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C#_Konsol\ikililerin_Toplami\ikililerin_Toplami\bin\Debug\ikililerin_Toplami.exe.config
+C:\Users\Administrator\Desktop\C#_Konsol\ikililerin_Toplami\ikililerin_Toplami\bin\Debug\ikililerin_Toplami.exe
+C:\Users\Administrator\Desktop\C#_Konsol\ikililerin_Toplami\ikililerin_Toplami\bin\Debug\ikililerin_Toplami.pdb
+C:\Users\Administrator\Desktop\C#_Konsol\ikililerin_Toplami\ikililerin_Toplami\obj\Debug\ikililerin_Toplami.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Konsol\ikililerin_Toplami\ikililerin_Toplami\obj\Debug\ikililerin_Toplami.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Konsol\ikililerin_Toplami\ikililerin_Toplami\obj\Debug\ikililerin_Toplami.exe
+C:\Users\Administrator\Desktop\C#_Konsol\ikililerin_Toplami\ikililerin_Toplami\obj\Debug\ikililerin_Toplami.pdb
