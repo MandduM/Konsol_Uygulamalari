@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C#_Konsol\Alan_Hesaplama\Alan_Hesaplama\bin\Debug\Alan_Hesaplama.exe.config
+C:\Users\Administrator\Desktop\C#_Konsol\Alan_Hesaplama\Alan_Hesaplama\bin\Debug\Alan_Hesaplama.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Alan_Hesaplama\Alan_Hesaplama\bin\Debug\Alan_Hesaplama.pdb
+C:\Users\Administrator\Desktop\C#_Konsol\Alan_Hesaplama\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Alan_Hesaplama\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Alan_Hesaplama\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Alan_Hesaplama\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.pdb
