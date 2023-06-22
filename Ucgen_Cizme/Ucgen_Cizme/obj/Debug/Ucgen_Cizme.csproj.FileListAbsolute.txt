@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C#_Konsol\Ucgen_Cizme\Ucgen_Cizme\bin\Debug\Ucgen_Cizme.exe.config
+C:\Users\Administrator\Desktop\C#_Konsol\Ucgen_Cizme\Ucgen_Cizme\bin\Debug\Ucgen_Cizme.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Ucgen_Cizme\Ucgen_Cizme\bin\Debug\Ucgen_Cizme.pdb
+C:\Users\Administrator\Desktop\C#_Konsol\Ucgen_Cizme\Ucgen_Cizme\obj\Debug\Ucgen_Cizme.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Ucgen_Cizme\Ucgen_Cizme\obj\Debug\Ucgen_Cizme.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Konsol\Ucgen_Cizme\Ucgen_Cizme\obj\Debug\Ucgen_Cizme.exe
+C:\Users\Administrator\Desktop\C#_Konsol\Ucgen_Cizme\Ucgen_Cizme\obj\Debug\Ucgen_Cizme.pdb
