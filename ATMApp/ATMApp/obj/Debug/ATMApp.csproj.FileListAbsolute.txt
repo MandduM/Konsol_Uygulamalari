@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\C#_Konsol\ATMApp\ATMApp\obj\Debug\ATMApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Konsol\ATMApp\ATMApp\obj\Debug\ATMApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Konsol\ATMApp\ATMApp\bin\Debug\ATMApp.exe.config
+C:\Users\Administrator\Desktop\C#_Konsol\ATMApp\ATMApp\bin\Debug\ATMApp.exe
+C:\Users\Administrator\Desktop\C#_Konsol\ATMApp\ATMApp\bin\Debug\ATMApp.pdb
+C:\Users\Administrator\Desktop\C#_Konsol\ATMApp\ATMApp\obj\Debug\ATMApp.exe
+C:\Users\Administrator\Desktop\C#_Konsol\ATMApp\ATMApp\obj\Debug\ATMApp.pdb
